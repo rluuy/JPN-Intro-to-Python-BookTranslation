@@ -5,7 +5,10 @@ This repo contains my current progress on translating Katsunori Nakamura's Intro
 Two versions are included in this repo. 
 
 Annotated -> My notes on translation sentence by sentence 
+
 Collated -> Translation without my personal notes
+
+Below is a preview of the cover page and the first page
 
 
 ![alt text](https://github.com/rluuy/JPN-Intro-to-Python-BookTranslation/blob/main/translation-preview1.png?raw=true)
