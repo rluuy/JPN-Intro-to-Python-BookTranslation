@@ -1,6 +1,6 @@
 # JPN-Intro-to-Python-BookTranslation
 
-This repo contains my current progress on translating Katsunori Nakamura's Introduction to Python Book. Here is a preview below. 
+This repo contains my current progress on translating Katsunori Nakamura's Introduction to Python Book.
 
 Two versions are included in this repo. 
 
